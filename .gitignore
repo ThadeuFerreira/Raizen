@@ -1,3 +1,5 @@
 .ipynb_checkpoints/explorar_v2-checkpoint.ipynb
 airflow/dags/__pycache__
 airflow/logs
+airflow/__pycache__/hello_world.cpython-37.pyc
+airflow/__pycache__/Helloworld.cpython-37.pyc
